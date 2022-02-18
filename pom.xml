@@ -17,6 +17,7 @@
         <module>netty-code-atguigu</module>
         <module>netty-code-self</module>
         <module>netty-definitive-guide</module>
+        <module>gps-tcp</module>
     </modules>
 
     <build>
